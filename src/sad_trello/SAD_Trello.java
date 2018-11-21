@@ -13,7 +13,7 @@ public class SAD_Trello {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        HowMany();
     }
     public static void HowMany() {
         ImAClass cls = new ImAClass();
