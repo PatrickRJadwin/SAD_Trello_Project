@@ -18,7 +18,8 @@ public class ImAClass {
     }
     
     public void ToString(){
-        JOptionPane.showMessageDialog(null, message);
+        //JOptionPane.showMessageDialog(null, message);
+        System.out.println(message);
     }
     
 }
